@@ -39,7 +39,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pasidu09-SL=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pasidu09-SL&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496" alt="Pasindu's Streak">  
 </p>
 </td>
 <td width="50%" align="center">
