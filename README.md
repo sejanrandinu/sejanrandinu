@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img  src = "hacker.gif" width = 100px></p>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Pasidu Sachintha</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=A+Student+at+Rajarata+Univercity+SriLanka;Director+and+Web+Developer+at+Wrenix;Always+learning+new+things"></a>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, Angular**
 
-- 👨‍💻 All of my projects are available at <a href="https://mrpasiya.pages.dev/Pasidu09-SL"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://mrpasiya.pages.dev/Pasidu09-"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
 
 - 📫 How to reach me **m.k.p.sachintha09@gmail.com**
 
@@ -30,15 +30,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<!-- My Statistics -->
+
 <h3 align="center"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> My Statistics:</h3>
 <p align="center">
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pasidu09-SL&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasidu09-SL&theme=dark&hide_border=false" /> 
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tharindu-Dasantha&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tharindu-Dasantha&theme=tokyonight" alt="streak" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharindu-Dasantha&layout=compact&theme=tokyonight" alt="langs" /> -->
+</p>
 </td>
 <td width="50%" align="center">
 
