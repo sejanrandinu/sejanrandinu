@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React, Angular**
 
-- 👨‍💻 All of my projects are available at <a href="https://mrpasiya.pages.dev/Pasidu09-"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://mrpasiya.pages.dev/Pasidu09-SL"><img src="https://img.shields.io/badge/Visit_My_Web-blue?style=for-the-badge" align="center" /></a>
 
 - 📫 How to reach me **m.k.p.sachintha09@gmail.com**
 
@@ -113,12 +113,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center"><a href="https://twitter.com/mrpasiya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpasiya0" height="40" width="50" /></a><a href="https://linkedin.com/in/pasidu-sachintha-982448288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasidu-sachintha-982448288" height="40" width="50" /></a><a href="https://stackoverflow.com/users/pasidu-sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasidu-sachintha" height="40" width="50" /></a><a href="https://fb.com/pasidu.sachintha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasidu.sachintha.1" height="40" width="50" /></a><a href="https://instagram.com/mr.pasiya_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pasiya_a" height="30" width="40" /></a></p>
+<p align="center">
+
+  <a href="https://linkedin.com/in/pasidu-sachintha-982448288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasidu-sachintha-982448288" height="40" width="50" /></a>
+  
+  <a href="https://fb.com/pasidu.sachintha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasidu.sachintha.1" height="40" width="50" /></a>
+  
+  <a href="https://instagram.com/mr.pasiya_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pasiya_a" height="30" width="40" /></a>
+
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-
-<!-- 🐍 Contribution Snake -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Pasidu09-SL/Pasidu09-SL/output/snake.svg" alt="snake animation"/>
-</div>
