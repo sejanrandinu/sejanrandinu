@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0f172a,100:22c55e&text=Pasidu%20Sachintha&fontColor=ffffff&fontSize=42&fontAlignY=40" />
+  <img width="100%" src="public/pasi.svg" />
 
   <h2>🚀 Full-Stack Developer • System Builder • Problem Solver</h2>
   <p>I build real-world systems that solve problems — from smart IoT solutions to scalable web apps.</p>
@@ -19,22 +19,33 @@
 
 ## 🧠 About Me
 
-- 🎯 Focused on **real-world problem solving systems**
-- 🤖 Built a **Smart Traffic Light System** using Arduino + AI (YOLOv8)
-- 🌐 Developing **full-stack web applications** (React, Next.js, APIs)
-- 🏗️ Creating scalable systems like **Vehicle Service Management System**
-- 🚀 Founder of **Wrenix** (building digital solutions)
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+<ul>
+  <li>🎯 Focused on <b>real-world problem solving systems</b></li>
+  <li>🤖 Built a <b>Smart Traffic Light System</b> using Arduino + AI (YOLOv8)</li>
+  <li>🌐 Developing <b>full-stack web applications</b> (React, Next.js, APIs)</li>
+  <li>🏗️ Creating scalable systems like <b>Vehicle Service Management System Mini ERP</b></li>
+  <li>⚡ Fun fact: <b>Call me Pasi</b></li>
+</ul>
+</td>
+<td width="50%" align="center">
+<img align="center" alt="Coding" width="450" src="public/pic.gif"> 
+  </td>
+</tr>
+</table>
 
 ---
 
 ## ⚡ What I Do Best
 
-| 💡 Systems Thinking | 💻 Development |
-|-------------------|--------------|
-| Real-world problem analysis | Full-stack web development |
-| Automation & smart solutions | REST APIs & backend logic |
-| Hardware + software integration | Database design & optimization |
-| Practical implementation focus | Deployment (Vercel, cloud basics) |
+| 💡 Systems Thinking             | 💻 Development                    |
+| ------------------------------- | --------------------------------- |
+| Real-world problem analysis     | Full-stack web development        |
+| Automation & smart solutions    | REST APIs & backend logic         |
+| Hardware + software integration | Database design & optimization    |
+| Practical implementation focus  | Deployment (Vercel, cloud basics) |
 
 ---
 
@@ -49,6 +60,7 @@
 ## 🔬 Featured Projects
 
 ### 🚦 Smart Traffic Light System
+
 - Uses **Arduino Mega + Sensors + YOLOv8**
 - Detects:
   - Vehicles 🚗
@@ -59,6 +71,7 @@
 ---
 
 ### 🧾 Vehicle Service Management System
+
 - Full billing + service tracking system
 - Features:
   - Customer & vehicle management
@@ -70,6 +83,7 @@
 ---
 
 ### 🌍 Safari Booking Website
+
 - Real-world deployed project
 - Built with **Next.js + EmailJS + Vercel**
 - Includes booking system & inquiry handling
@@ -105,6 +119,7 @@
 </div>
 
 ## ⚙️ Development Approach
+
 - Focus on **clean logic over hype**
 - Build systems that are **usable and scalable**
 - Prefer **real functionality over just UI**
@@ -121,10 +136,10 @@
 
 ## 🎯 Current Focus
 
-- 🚀 Improving full-stack architecture skills  
-- 🧠 Learning advanced system design  
-- 💼 Preparing projects for real clients  
-- 🌐 Growing **Wrenix**  
+- 🚀 Improving full-stack architecture skills
+- 🧠 Learning advanced system design
+- 💼 Preparing projects for real clients
+- 🌐 Growing **Wrenix**
 
 ---
 
