@@ -15,8 +15,8 @@
 </div>
 
 <!-- 👨‍💻 About me -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-name: Pasidu Sachintha
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+name: Pasidu Sachintha 
 role: Full Stack Developer | AI & IoT Enthusiast
 company: Wrenix (Director)
 location: Sri Lanka
