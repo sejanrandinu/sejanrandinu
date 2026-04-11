@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:020617,50:0f172a,100:22c55e&text=Pasidu%20Sachintha&fontColor=ffffff&fontSize=42&fontAlignY=40" />
+  <img width="100%" src="public/pasi.svg" />
 
   <h2>🚀 Full-Stack Developer • System Builder • Problem Solver</h2>
   <p>I build real-world systems that solve problems — from smart IoT solutions to scalable web apps.</p>
@@ -17,22 +17,23 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="public/line.gif"><br><br>
 
 ## 🧠 About Me
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-- 🎯 Focused on **real-world problem solving systems**
-- 🤖 Built a **Smart Traffic Light System** using Arduino + AI (YOLOv8)
-- 🌐 Developing **full-stack web applications** (React, Next.js, APIs)
-- 🏗️ Creating scalable systems like **Vehicle Service Management System Mini ERP**
-- ⚡ Fun fact **Call me as Pasi**
-
+<ul>
+  <li>🎯 Focused on <b>real-world problem solving systems</b></li>
+  <li>🤖 Built a <b>Smart Traffic Light System</b> using Arduino + AI (YOLOv8)</li>
+  <li>🌐 Developing <b>full-stack web applications</b> (React, Next.js, APIs)</li>
+  <li>🏗️ Creating scalable systems like <b>Vehicle Service Management System Mini ERP</b></li>
+  <li>⚡ Fun fact: <b>Call me Pasi</b></li>
+</ul>
 </td>
 <td width="50%" align="center">
 
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> 
+<img align="center" alt="Coding" width="450" src="public/pic.gif"> 
   </td>
 </tr>
 </table>
@@ -94,6 +95,12 @@
   <img height="160" src="https://streak-stats.demolab.com?user=Pasidu09-SL&theme=tokyonight&hide_border=true" />
 </div>
 
+## 🎯 Current Focus
+
+- 🚀 Improving full-stack architecture skills
+- 🧠 Learning advanced system design
+- 💼 Preparing projects for real clients
+
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://linkedin.com/in/pasidu-sachintha-982448288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasidu-sachintha-982448288" height="40" width="50" /></a><a href="https://fb.com/pasidu.sachintha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasidu.sachintha.1" height="40" width="50" /></a><a href="https://instagram.com/mr.pasiya_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pasiya_a" height="30" width="40" /></a></p>
 
@@ -101,16 +108,15 @@
 
 <div align="center">
 
-<a href="https://safari-booking-website-3868q1n93-pasidu09-sls-projects.vercel.app/">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Z5eXJ5b3Z5b2x6bXQ5eXQ5aWZ3dWJ1c3Y5d3d3c3N6Z2F6eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" />
+<a href="https://safari-booking-website.vercel.app/">
+  <img src="public/loading.webp" width="300" />
 </a>
 <a href="#">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </a>
 </div>
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:22c55e" />
+  <img width="100%" src="public/ending.svg" alt="capsule-render" />
 </div>
 
 

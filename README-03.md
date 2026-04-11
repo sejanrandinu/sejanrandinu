@@ -14,47 +14,6 @@
   <img src="https://img.shields.io/badge/Status-Building%20Projects-22c55e?style=for-the-badge&labelColor=020617" />
 
 </div>
-
----
-
-## 🧠 About Me
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-<ul>
-  <li>🎯 Focused on <b>real-world problem solving systems</b></li>
-  <li>🤖 Built a <b>Smart Traffic Light System</b> using Arduino + AI (YOLOv8)</li>
-  <li>🌐 Developing <b>full-stack web applications</b> (React, Next.js, APIs)</li>
-  <li>🏗️ Creating scalable systems like <b>Vehicle Service Management System Mini ERP</b></li>
-  <li>⚡ Fun fact: <b>Call me Pasi</b></li>
-</ul>
-</td>
-<td width="50%" align="center">
-<img align="center" alt="Coding" width="450" src="public/pic.gif"> 
-  </td>
-</tr>
-</table>
-
----
-
-## ⚡ What I Do Best
-
-| 💡 Systems Thinking             | 💻 Development                    |
-| ------------------------------- | --------------------------------- |
-| Real-world problem analysis     | Full-stack web development        |
-| Automation & smart solutions    | REST APIs & backend logic         |
-| Hardware + software integration | Database design & optimization    |
-| Practical implementation focus  | Deployment (Vercel, cloud basics) |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,php,python,mysql,mongodb,git,github,vercel,docker,arduino,vscode,linux&perline=9" />
-</div>
-
 ---
 
 ## 🔬 Featured Projects
@@ -154,5 +113,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0f172a,100:22c55e" />
+  <img width="100%" src="public/ending.svg" alt="capsule-render" />
 </div>
