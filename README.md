@@ -40,7 +40,7 @@
 <td width="50%" align="center">
   <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Pasidu09-SL&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496" alt="Pasindu's Streak">  
-</p>
+  </p>
 </td>
 <td width="50%" align="center">
 
@@ -116,3 +116,9 @@
 <p align="center"><a href="https://twitter.com/mrpasiya0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpasiya0" height="40" width="50" /></a><a href="https://linkedin.com/in/pasidu-sachintha-982448288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasidu-sachintha-982448288" height="40" width="50" /></a><a href="https://stackoverflow.com/users/pasidu-sachintha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pasidu-sachintha" height="40" width="50" /></a><a href="https://fb.com/pasidu.sachintha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasidu.sachintha.1" height="40" width="50" /></a><a href="https://instagram.com/mr.pasiya_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.pasiya_a" height="30" width="40" /></a></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+
+<!-- 🐍 Contribution Snake -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pasidu09-SL/Pasidu09-SL/output/snake.svg" alt="snake animation"/>
+</div>
