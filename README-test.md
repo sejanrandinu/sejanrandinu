@@ -98,9 +98,9 @@ Smart Traffic Light System (AI + Arduino)
 </div>
 
 <!-- 🐍 Contribution Snake -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Pasidu09-SL/Pasidu09-SL/output/snake.svg" alt="snake animation"/>
-</div>
+</div> -->
 
 <!-- 🌐 Portfolio -->
 <div align="center">
