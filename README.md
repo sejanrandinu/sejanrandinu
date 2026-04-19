@@ -92,7 +92,7 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=Pasidu09-SL&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pasidu09-SL&theme=android-dark](https://streak-stats.demolab.com/?user=Pasidu09-SL&theme=android-dark&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Current Focus
