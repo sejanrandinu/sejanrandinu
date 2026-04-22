@@ -104,7 +104,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/sejan-randinu-853629318">
+  <a href="www.linkedin.com/in/sejan-randinu-853629318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -121,7 +121,7 @@
 <a href="">
   <img src="public/loading.webp" width="300" />
 </a>
-<a href="https://sejanrandinu.pages.dev/">
+<a href="https://sejanrandinu.pages.dev/" target="_blank">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </a>
 </div>
