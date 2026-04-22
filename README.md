@@ -28,7 +28,7 @@
   <li>🤖 Built a <b>Smart Traffic Light System</b> using Arduino + AI (YOLOv8)</li>
   <li>🌐 Developing <b>full-stack web applications</b> (React, Next.js, APIs)</li>
   <li>🏗️ Creating scalable systems like <b>Vehicle Service Management System Mini ERP</b></li>
-  <li>⚡ Fun fact: <b>Call me Pasi</b></li>
+  <li>⚡ Fun fact: <b>Call me Sejan</b></li>
 </ul>
 </td>
 <td width="50%" align="center">
@@ -124,7 +124,7 @@
 <a href="https://safari-booking-website.vercel.app/">
   <img src="public/loading.webp" width="300" />
 </a>
-<a href="https://www.wrenix.com/">
+<a href="https://sejanrandinu.pages.dev/">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 </a>
 </div>
