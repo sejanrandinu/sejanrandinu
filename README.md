@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img width="100%" src="public/public/d5ae7905-1227-4d33-9df1-aefca5e136e1.gif" />
+  <img width="100%" src="public/d5ae7905-1227-4d33-9df1-aefca5e136e1.gif" />
 
   <h2>🚀 Full-Stack Developer • System Builder • Problem Solver</h2>
   <p>I build real-world systems that solve problems — from smart IoT solutions to scalable web apps.</p>
