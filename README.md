@@ -104,17 +104,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/pasidu-sachintha-982448288">
+  <a href="www.linkedin.com/in/sejan-randinu-853629318">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fb.com/pasidu.sachintha.1">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/mr.pasiya_a">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 </p>
 
 
@@ -122,7 +118,7 @@
 
 <div align="center">
 
-<a href="https://safari-booking-website.vercel.app/">
+<a href="">
   <img src="public/loading.webp" width="300" />
 </a>
 <a href="https://sejanrandinu.pages.dev/">
